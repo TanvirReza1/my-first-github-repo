@@ -1,2 +1,4 @@
-# my-first-github-repo
+my-first-github-repo
 This is my first Git Repository
+Author - Tanvir Hossain Reza
+
